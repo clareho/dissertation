@@ -1,0 +1,29 @@
+date,restriction,source,schools_closed,pubs_closed,shops_closed,eating_places_closed,stay_at_home,household_mixing_indoors_banned,wfh,rule_of_6_indoors,curfew,eat_out_to_help_out
+17/03/2020,Work from home advised,https://www.gov.uk/government/speeches/pm-statement-on-coronavirus-16-march-2020,0,0,0,0,0,0,1,0,0,0
+21/03/2020,Pubs and hospitality close,https://www.gov.uk/government/news/government-announces-further-measures-on-social-distancing,0,1,0,1,0,0,1,0,0,0
+23/03/2020,Schools close,https://www.gov.uk/government/news/schools-colleges-and-early-years-settings-to-close,1,1,0,1,0,0,1,0,0,0
+24/03/2020,Lockdown 1,https://www.gov.uk/government/speeches/pm-address-to-the-nation-on-coronavirus-23-march-2020,1,1,1,1,1,1,1,0,0,0
+11/05/2020,Stay alert,https://www.gov.uk/government/speeches/pm-address-to-the-nation-on-coronavirus-10-may-2020,1,1,1,1,0,1,1,0,0,0
+01/06/2020,Schools reopen,https://www.gov.uk/government/news/pm-confirms-schools-colleges-and-nurseries-on-track-to-begin-phased-reopening,0,1,1,1,0,1,1,0,0,0
+15/06/2020,Shops reopen,https://www.gov.uk/government/speeches/business-secretarys-statement-on-coronavirus-covid-19-9-june-2020,0,1,0,1,0,1,1,0,0,0
+04/07/2020,Hospitality reopens,https://www.gov.uk/government/news/pm-announces-easing-of-lockdown-restrictions-23-june-2020,0,0,0,0,0,0,1,0,0,0
+01/08/2020,Covid secure workplaces introduced,https://www.gov.uk/government/speeches/prime-ministers-statement-on-coronavirus-covid-19-31-july-2020,0,0,0,0,0,0,0,0,0,0
+03/08/2020,Eat out to help out,https://www.gov.uk/guidance/get-a-discount-with-the-eat-out-to-help-out-scheme,0,0,0,0,0,0,0,0,0,1
+31/08/2020,End of eat out to help out,https://www.gov.uk/guidance/get-a-discount-with-the-eat-out-to-help-out-scheme,0,0,0,0,0,0,0,0,0,0
+14/09/2020,Rule of 6,https://www.gov.uk/government/news/rule-of-six-comes-into-effect-to-tackle-coronavirus,0,0,0,0,0,0,0,1,0,0
+22/09/2020,WFH encouraged again,https://www.gov.uk/government/speeches/prime-ministers-statement-on-coronavirus-covid-19-22-september-2020,0,0,0,0,0,0,1,1,0,0
+24/09/2020,Curfew,https://www.gov.uk/government/speeches/pm-commons-statement-on-coronavirus-22-september-2020,0,0,0,0,0,0,1,1,1,0
+14/10/2020,Tier 1,https://www.gov.uk/government/news/prime-minister-announces-new-local-covid-alert-levels,0,0,0,0,0,0,1,1,1,0
+17/10/2020,Tier 2,https://www.london.gov.uk/press-releases/mayoral/sadiq-issues-statement-on-new-restrictions,0,0,0,0,0,1,1,0,1,0
+05/11/2020,Lockdown 2,https://www.gov.uk/government/news/prime-minister-announces-new-national-restrictions,0,1,1,1,1,1,1,0,0,0
+02/12/2020,Tier 2,https://www.gov.uk/government/publications/covid-19-winter-plan/covid-19-winter-plan,0,0,0,0,0,1,1,0,1,0
+16/12/2020,Tier 3,https://www.gov.uk/government/speeches/prime-ministers-statement-on-coronavirus-covid-19-16-december-2020,0,1,0,1,0,1,1,0,0,0
+20/12/2020,Tier 4,https://www.gov.uk/government/speeches/prime-ministers-statement-on-coronavirus-covid-19-19-december-2020,0,1,1,1,1,1,1,0,0,0
+05/01/2021,Lockdown 3,https://www.gov.uk/government/speeches/prime-ministers-address-to-the-nation-4-january-2021,1,1,1,1,1,1,1,0,0,0
+08/03/2021,Roadmap out of lockdown: Step 1.1,https://www.gov.uk/government/news/schools-and-colleges-to-reopen-from-tomorrow-as-part-of-step-one-of-the-roadmap,0,1,1,1,1,1,1,0,0,0
+29/03/2021,Roadmap out of lockdown: Step 1.2,https://www.gov.uk/government/speeches/pm-statement-at-coronavirus-press-conference-29-march-2021,0,1,1,1,0,1,1,0,0,0
+12/04/2021,Roadmap out of lockdown: Step 2,https://www.gov.uk/government/publications/step-2-covid-19-restrictions-posters-12-april-2021,0,0,0,0,0,1,1,0,0,0
+17/05/2021,Roadmap out of lockdown: Step 3,https://www.gov.uk/government/publications/step-3-covid-19-restrictions-posters-17-may-2021,0,0,0,0,0,0,1,1,0,0
+19/07/2021,Roadmap out of lockdown: Step 4,https://www.gov.uk/government/news/prime-minister-confirms-move-to-step-4,0,0,0,0,0,0,0,0,0,0
+13/12/2021,Move to Plan B,https://www.gov.uk/government/news/prime-minister-confirms-move-to-plan-b-in-england,0,0,0,0,0,0,1,0,0,0
+27/01/2021,Return to Plan A,https://www.gov.uk/government/news/england-to-return-to-plan-a-following-the-success-of-the-booster-programme,0,0,0,0,0,0,0,0,0,0
