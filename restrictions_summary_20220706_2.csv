@@ -1,29 +1,29 @@
-date,restriction,position
-2020-03-17,Work from home advised,136
-2020-03-21,Pubs and hospitality close,124
-2020-03-23,Schools close,112
-2020-03-24,Lockdown 1,100
-2020-05-11,Stay alert,100
-2020-06-01,Schools reopen,100
-2020-06-15,Shops reopen,100
-2020-07-04,Hospitality reopens,100
-2020-08-01,Covid secure workplaces introduced,110
-2020-08-03,Eat out to help out,100
-2020-08-31,End of eat out to help out,120
-2020-09-14,Rule of 6,115
-2020-09-22,WFH encouraged again,110
-2020-09-24,Curfew,100
-2020-10-14,Tier 1,110
-2020-10-17,Tier 2,100
-2020-11-05,Lockdown 2,100
-2020-12-02,Tier 2,100
-2020-12-16,Tier 3,105
-2020-12-20,Tier 4,100
-2021-01-05,Lockdown 3,100
-2021-03-08,Roadmap out of lockdown: Step 1.1,100
-2021-03-29,Roadmap out of lockdown: Step 1.2,100
-2021-04-12,Roadmap out of lockdown: Step 2,100
-2021-05-17,Roadmap out of lockdown: Step 3,100
-2021-07-19,Roadmap out of lockdown: Step 4,100
-2021-12-13,Move to Plan B,100
-2022-01-27,Return to Plan A,100
+date,restriction,position,top,bottom
+17/3/2020,Work from home advised,136,100,-100
+21/3/2020,Pubs and hospitality close,124,100,-100
+23/3/2020,Schools close,112,100,-100
+24/3/2020,Lockdown 1,100,100,-100
+11/5/2020,Stay alert,100,100,-100
+1/6/2020,Schools reopen,100,100,-100
+15/6/2020,Shops reopen,100,100,-100
+4/7/2020,Hospitality reopens,100,100,-100
+1/8/2020,Covid secure workplaces introduced,110,100,-100
+3/8/2020,Eat out to help out,100,100,-100
+31/8/2020,End of eat out to help out,118,100,-100
+14/9/2020,Rule of 6,115,100,-100
+22/9/2020,WFH encouraged again,110,100,-100
+24/9/2020,Curfew,100,100,-100
+14/10/2020,Tier 1,110,100,-100
+17/10/2020,Tier 2,100,100,-100
+5/11/2020,Lockdown 2,100,100,-100
+2/12/2020,Tier 2,100,100,-100
+16/12/2020,Tier 3,108,100,-100
+20/12/2020,Tier 4,100,100,-100
+5/1/2021,Lockdown 3,100,100,-100
+8/3/2021,Roadmap out of lockdown: Step 1.1,100,100,-100
+29/3/2021,Roadmap out of lockdown: Step 1.2,100,100,-100
+12/4/2021,Roadmap out of lockdown: Step 2,100,100,-100
+17/5/2021,Roadmap out of lockdown: Step 3,100,100,-100
+19/7/2021,Roadmap out of lockdown: Step 4,100,100,-100
+13/12/2021,Move to Plan B,100,100,-100
+27/1/2022,Return to Plan A,100,100,-100
