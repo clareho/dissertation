@@ -17,7 +17,7 @@ import Tidy exposing (..)
 import VegaLite exposing (..)
 ```
 
-### Urban mobility during COVID-19 pandemic
+### Urban mobility in London during COVID-19 pandemic
 
 ```elm {v interactive}
 integratedLines : Spec
